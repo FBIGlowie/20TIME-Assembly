@@ -3,7 +3,7 @@ This is a Honors ELA project for the 8 weeks where 20% of the week is dedicated 
 
 Question: <br>
 <b> What are the most effective ways for beginners to learn assembly language and code assembly in higher level languages? </b> <br>
--I chose to code learn how to make low level code with assembly. <br>
+-I chose to learn how to make low level code with assembly. <br>
 -The reason I chose this is because I want to make shellcode, which is raw binary that is usually injected into a process. <br>
 -Shellcode is very popular in<b> malware! </b> because the raw bytes can be encrypted and the injection process is very stealthy from antivirus(AV) static analysis (the malicious payload is encrypted, AVs cannot determine what it does). <br>
 -Antiviruses also have a very hard time determining what this low level code does if its encoded/setup correctly. <br>
