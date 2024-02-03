@@ -8,4 +8,4 @@ Every network request or packet transmitted is a syscall. Just like in normal pr
 different parameters for different types of syscalls. Here is a usefull [table](https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/) I found online.
 I plan to experiment more with assembly and later I plan to switch to a higher level language to make shellcode, maybe around week 6.
 
-Here is some assembly [code]() I was experiment with, this serves as the first artifact.
+Here is some assembly [code](https://github.com/FBIGlowie/20TIME-Assembly/blob/main/Weekly_Reflections/WEEK4----2.3.24/artifact1.asm) I was experiment with, this serves as the first artifact.
