@@ -12,4 +12,4 @@ Question: <br>
 
 -Bad part is that assembly is easy to write but hard to understand. This is why the second part of my question asks how to use higher level languages to generate assembly code. Preferably Rust due to its memory safety or C because of its simplicity. <br>
 
--Scope of this project is to learn some assembly first and try out programs and then switch over to coding assembly programs in Rust or C. (I may get into actually making <b> <u> malicious </u> </b> shellcode) <br>
+-Scope of this project is to learn some assembly first and try out programs and then switch over to coding assembly programs in Rust or C.
