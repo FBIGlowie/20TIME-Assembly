@@ -1,4 +1,4 @@
-.globl _start #this just tells the compiler to not ignore the _start section
+.globl _start mv m#this just tells the compiler to not ignore the _start section
 .section .data # this tells the compiler everything under this section is stored as data, like a variable
 rag: .quad 0xffffffffffffffff ; #create variable rag to be the maximum of quadword (64 bit number) (preciselly 18446744073709551615)
 str: .asciz "Hello, World!\n" ; #average hello world string to showcase the syscall to print to the therminal
