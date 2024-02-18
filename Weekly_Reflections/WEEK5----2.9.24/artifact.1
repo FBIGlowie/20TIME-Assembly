@@ -1,0 +1,9 @@
+.globl _start
+.section .text
+_start:
+ movq $60, %rax
+another_location:
+ movq $8, %rdi
+ jmp another_location
+ # This never gets executed
+ syscall ; example of program that never stops because it contantly keeps looking, redirecting the execution pointer to the same place
